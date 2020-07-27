@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "carte-menu-app",
-    "slug": "carte-menu-app",
+    "name": "carte-menu-app-drawer",
+    "slug": "carte-menu-app-drawer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "experiments": {"redesignedLogBox": true}
   }
 }
