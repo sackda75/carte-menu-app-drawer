@@ -1,4 +1,4 @@
-Carte-menu-app est une application mobile permettant aux clients de consulter la carte d'un restaurant avec leurs smartphones. Version avec un drawer.
+Carte-menu-app est une application mobile permettant aux clients de consulter la carte d'un restaurant avec leurs smartphones en scanannt un QR Code. Version avec un drawer.
 
 1. Télécharger l'application EXPO
 2. Ouvrir l'application
